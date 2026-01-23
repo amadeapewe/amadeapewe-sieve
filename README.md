@@ -18,8 +18,7 @@ The algorithm is designed to be "cache-friendly." It shows peak performance on r
 | **1B** | 114.3 ms | **108.2 ms** | **1.06x** | **3.75x** |
 
 ### Performance Visualization
-![Benchmark Chart](benchmark_ar<img width="1024" height="1024" alt="Gemini_Generated_Image_ira0n7ira0n7ira0" src="https://github.com/user-attachments/assets/cb039405-88ac-4104-aa5b-9625a2e67ba4")
-
+![Benchmark Chart](https://github.com/user-attachments/assets/cb039405-88ac-4104-aa5b-9625a2e67ba4)
 ### How it works
 This is not "new math," but a **new layout**. 
 * **Wheel Factorization ($H=30$):** We skip multiples of 2, 3, and 5 automatically.
